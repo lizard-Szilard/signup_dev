@@ -1,6 +1,6 @@
 # signup_dev
 
-The registration screen that activate the "registration" button when form success
+The registration screen that activate the "registration" button when form valid
 
 ## Getting Started
 
