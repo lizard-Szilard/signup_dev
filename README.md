@@ -4,7 +4,7 @@ The registration screen that activate the "registration" button when form succes
 
 ## Getting Started
 
-You can follow Password validation
+You can follow Password validation for reference
 - https://dev.mysql.com/doc/refman/5.6/en/validate-password-options-variables.html
 
 ![img.png](img.png)
